@@ -153,7 +153,7 @@ Open your browser and navigate to `http://localhost:8000` (or open `index.html` 
 ## Sample Transcript
 
 Use the sample transcript provided in the repository or use your own
-```
+
 
 ## Configuration
 
